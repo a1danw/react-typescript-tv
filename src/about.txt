@@ -1,0 +1,1 @@
+click cmd to jump to the typescript declaration file
