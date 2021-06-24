@@ -6,19 +6,19 @@ const posts: PostProps[] = [
   {
     title: "example post",
     description: "some text",
-    author: "amir",
+    author: "Aidan",
     isPublished: true,
   },
   {
     title: "example post 2",
     description: "some text 2",
-    author: "amir",
+    author: "Aidan",
     isPublished: false,
   },
   {
     title: "example post 3",
     description: "some text 3",
-    author: "amir",
+    author: "Aidan",
     isPublished: true,
   },
 ];
